@@ -4,3 +4,22 @@
 -local export
 -export multiple grids
 -export styles
+2. Shield UI https://demos.shieldui.com/web/grid-general/export-to-excel
+3. Guriddo http://www.guriddo.net/demo/guriddojs/
+-export color
+-groupping export
+-pivot grid export
+4. Syncfusion https://ej2.syncfusion.com/documentation/grid/excel-exporting/#export-current-page
+-multiple grid exporting
+-same sheet
+-new sheet
+-to customize excel export
+-export current page
+-export hidden columns
+-show or hide columns on exported excel
+-conditional cell formatting
+-to add header and footer
+-file name for exported document
+-custom data source
+-exporting grouped records
+-export the hierarchy grid
