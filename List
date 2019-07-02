@@ -25,3 +25,10 @@
 -export the hierarchy grid
 5. Progress https://demos.telerik.com/kendo-ui/grid/excel-export
 6. agGrid https://www.ag-grid.com/javascript-grid-excel/
+7. jQWidgets https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm#demos/jqxgrid/dataexport.htm
+8. Infragistics Ignite UI https://www.igniteui.com/grid/export-feature-rich-grid
+9. FancyGrid https://fancygrid.com/samples/miscellaneous/export
+10. GrapeCity Wijmo https://www.grapecity.com/wijmo/demos/Grid/ImportExportPrint/Excel/Async/purejs
+11. UI Grid http://ui-grid.info/docs/#!/tutorial/Tutorial:%20410%20Exporting%20Data%20with%20Fonts,%20Colors%20and%20Header%20in%20Excel
+12. ASPSnippets https://www.aspsnippets.com/Articles/Export-Convert-GridView-to-Excel-using-JavaScript-and-jQuery-in-ASPNet.aspx
+13. Trirand http://trirand.azurewebsites.net/demo/grid
